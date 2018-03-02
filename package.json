@@ -1,0 +1,23 @@
+{
+  "name": "homebridge-togglesensorswitch",
+  "description": "Triggers a motion sensor when switch is turned on. Plugin for homebridge: https://github.com/nfarina/homebridge",
+  "version": "0.0.3",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/patelhiren/homebridge-togglesensorswitch.git"
+  },
+  "author": "Hiren Patel",
+  "license": "ISC",
+  "preferGlobal": true,
+  "keywords": [
+    "homebridge-plugin",
+    "motion",
+    "switch",
+    "camera",
+    "HomeKit"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.5"
+  }
+}
